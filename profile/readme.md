@@ -1,7 +1,9 @@
-<article>
   # Coditor Lab
-  
+
+<article>
+
   Revolutionizing Blockchain Technology with Powerful Utilities
+-----------------------------------
 
   <a href="http://coditorlab.githum.io">Checkout Lab</a>
 
